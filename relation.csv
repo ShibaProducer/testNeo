@@ -1,0 +1,5 @@
+﻿roomID,relationName,sensorID,prop
+Room1.025,IS_OF_TYPE,co2,
+Room1.025,IS_OF_TYPE,temperature,
+Room1.042,IS_OF_TYPE,co2,
+Room1.042,IS_OF_TYPE,temperature,
